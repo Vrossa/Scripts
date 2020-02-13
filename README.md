@@ -7,4 +7,4 @@ Each script has their own README.MD file that describes what the script does.
 
 Currently within the repository:
 - DShield Malicious Domains
-  
+- SilentDefense Backup Script
